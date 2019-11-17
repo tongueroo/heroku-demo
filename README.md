@@ -1,4 +1,4 @@
-# Test Project for Demo
+# Test Project for Heroku Demo
 
 This project contains a small sinatra app that prints out some text to help demo heroku.  It listens on the default 4567 port locally.
 
