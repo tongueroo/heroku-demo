@@ -1,5 +1,7 @@
 # Test Project for Heroku Demo
 
+[![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
+
 This project contains a small sinatra app that prints out some text to help demo heroku.  It listens on the default 4567 port locally.
 
 ## Testing Locally with Mac OSX
